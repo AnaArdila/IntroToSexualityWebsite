@@ -22,7 +22,7 @@ current_id = 10
 review_chords = []
 
 # create a home route
-@app.route('/')
+@app.route('http://anamardila.tech/IntroToSexualityWebsite/')
 
 # create home method
 def home():
